@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d6a5ea4-ee59-47e8-8fb1-1db99d4d2f76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_context</find>
+      <find>add</find>
+      <find>context.</find>
+      <find>_context.Appointments</find>
+      <find>save</find>
+      <find>_context.</find>
+      <find>remove</find>
+      <find>datetime</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tolu Thomas &lt;tolu.thomas@protonmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/da/21ffa1bd/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/ec/416a3d7a/ResponseCacheLocation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Models/IAppointmentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/BusinessLogic/AppointmentsBusinessLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Models/AppointmentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E962C6C0-F505-49E7-A953-FD0FE445B7F5/2e/aa0192fb/Queryable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage.Tests/BusinessLogic/AppointmentsBusinessLogicTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f0/0346931d/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Controllers/AppointmentsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Models/AppointmentContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Models/AppointmentLocationViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage.Tests/Controllers/HomeControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Models/Appointment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMHaulage/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AMHaulage/Models/IAppointmentContext.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage.Tests/Controllers/HomeControllerTests.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage.Tests/Controllers/AppointmentControllerTests.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/Models/AppointmentContext.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/BusinessLogic/AppointmentsBusinessLogic.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage.Tests/BusinessLogic/AppointmentsBusinessLogicTests.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/Startup.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/Models/AppointmentRepository.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/Models/IAppointmentRepository.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/Controllers/AppointmentsController.cs" />
+        <option value="$PROJECT_DIR$/AMHaulage/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/AMHaulage/Views/Appointments/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/AMHaulage/Views/Appointments/Details.cshtml" />
+        <option value="$PROJECT_DIR$/AMHaulage/Views/Appointments/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/AMHaulage/Views/Appointments/Index.cshtml" />
+        <option value="$PROJECT_DIR$/AMHaulage/Views/Appointments/Create.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.AMHaulage/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.AMHaulage/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AMHaulage" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.AMHaulage">
+    <configuration name="AMHaulage" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AMHaulage/AMHaulage.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="AMHaulage" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AMHaulage: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AMHaulage/AMHaulage.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d6a5ea4-ee59-47e8-8fb1-1db99d4d2f76" name="Default Changelist" comment="" />
+      <created>1558549068326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558549068326</updated>
+      <workItem from="1558549074280" duration="19745000" />
+      <workItem from="1558607762540" duration="854000" />
+      <workItem from="1558609387805" duration="1483000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated UI and refactored code">
+      <created>1558610298994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558610298994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World">
+      <created>1558614080528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558614080528</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22082000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" sideWeight="0.49924472" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49924472" weight="0.3295129" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32952693" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3295129" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5007553" side_tool="true" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.3295129" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated UI and refactored code" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AMHaulage/AMHaulage.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1558388330000" expanded="true" signature="75:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/AppointmentLocationViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1558395298000" expanded="false" signature="6:75" ph="..." />
+            <marker date="1558395298000" expanded="true" signature="103:380" ph="{...}" />
+            <marker date="1558395298000" expanded="true" signature="151:378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/da/21ffa1bd/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="705" column="40" selection-start-line="705" selection-start-column="40" selection-end-line="705" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/Appointment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1558403188000" expanded="false" signature="6:207" ph="..." />
+            <marker date="1558403188000" expanded="true" signature="235:2869" ph="{...}" />
+            <marker date="1558403188000" expanded="true" signature="287:2867" ph="{...}" />
+            <marker date="1558403188000" expanded="true" signature="992:1121" ph="/* Appointment summary with required validation, string length restriction of 255 characters ... */" />
+            <marker date="1558403188000" expanded="true" signature="1347:1477" ph="/* Appointment location with required validation, string length restriction of 255 characters ... */" />
+            <marker date="1558403188000" expanded="true" signature="2387:2861" ph="{...}" />
+            <marker date="1558403188000" expanded="true" signature="2512:2851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/IAppointmentContext.cs" />
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="65" lean-forward="true" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding>
+            <marker date="1558388330000" expanded="false" signature="6:178" ph="..." />
+            <marker date="1558388330000" expanded="true" signature="211:707" ph="{...}" />
+            <marker date="1558388330000" expanded="true" signature="258:705" ph="{...}" />
+            <marker date="1558388330000" expanded="true" signature="301:348" ph="{...}" />
+            <marker date="1558388330000" expanded="true" signature="388:435" ph="{...}" />
+            <marker date="1558388330000" expanded="true" signature="566:699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/ec/416a3d7a/ResponseCacheLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage.Tests/UnitTest1.cs" />
+    <entry file="file://$PROJECT_DIR$/AMHaulage.Tests/Controllers/AppointmentControllerTests.cs" />
+    <entry file="file://$PROJECT_DIR$/AMHaulage.Tests/Controllers/HomeControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <marker date="1558584612799" expanded="true" signature="6:73" ph="..." />
+            <marker date="1558584612799" expanded="true" signature="112:979" ph="{...}" />
+            <marker date="1558584612799" expanded="true" signature="151:977" ph="{...}" />
+            <marker date="1558584612799" expanded="true" signature="223:560" ph="{...}" />
+            <marker date="1558584612799" expanded="true" signature="629:970" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/BusinessLogic/AppointmentsBusinessLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <marker date="1558588169253" expanded="true" signature="6:42" ph="..." />
+            <marker date="1558588169253" expanded="true" signature="122:1905" ph="{...}" />
+            <marker date="1558588169253" expanded="true" signature="265:441" ph="{...}" />
+            <marker date="1558588169253" expanded="true" signature="610:984" ph="{...}" />
+            <marker date="1558588169253" expanded="true" signature="633:831" ph="/* Check if a string (searchString) was searched, and if so, ... */" />
+            <marker date="1558588169253" expanded="true" signature="1154:1566" ph="{...}" />
+            <marker date="1558588169253" expanded="true" signature="1177:1405" ph="/* Check if location (appointmentLocation) requested is null, and if so, ... */" />
+            <marker date="1558588169253" expanded="true" signature="1752:1899" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f0/0346931d/DbSet`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="96" column="33" selection-start-line="96" selection-start-column="33" selection-end-line="96" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E962C6C0-F505-49E7-A953-FD0FE445B7F5/2e/aa0192fb/Queryable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="844" column="23" selection-start-line="844" selection-start-column="23" selection-end-line="844" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/AppointmentContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="99" selection-start-line="12" selection-start-column="99" selection-end-line="12" selection-end-column="99" />
+          <folding>
+            <marker date="1558586953833" expanded="false" signature="6:229" ph="..." />
+            <marker date="1558586953833" expanded="true" signature="257:484" ph="{...}" />
+            <marker date="1558586953833" expanded="true" signature="307:482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/IAppointmentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <marker date="1558598212547" expanded="true" signature="6:239" ph="..." />
+            <marker date="1558598212547" expanded="true" signature="332:715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage.Tests/BusinessLogic/AppointmentsBusinessLogicTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <marker date="1558589318536" expanded="true" signature="6:86" ph="..." />
+            <marker date="1558589318536" expanded="true" signature="177:602" ph="{...}" />
+            <marker date="1558589318536" expanded="true" signature="308:596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/wwwroot/js/jquery.datetimepicker.js" />
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Controllers/AppointmentsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1558598327719" expanded="true" signature="6:262" ph="..." />
+            <marker date="1558598327719" expanded="true" signature="295:5780" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="350:5778" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="754:1249" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="1258:1372" ph="/* public AppointmentsController(AppointmentContext context) ... */" />
+            <marker date="1558598327719" expanded="true" signature="1498:1920" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="1602:1853" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="2018:2361" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="2056:2119" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="2249:2312" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="2436:2483" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="2493:2709" ph="/* POST: Appointments/Create ... */" />
+            <marker date="1558598327719" expanded="true" signature="2905:3200" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="2951:3152" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="3292:3611" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="3330:3393" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="3500:3563" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="3621:3837" ph="/* POST: Appointments/Edit/5 ... */" />
+            <marker date="1558598327719" expanded="true" signature="4039:4767" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4087:4150" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4187:4719" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4221:4385" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4438:4649" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4516:4603" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4863:5206" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="4901:4964" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="5094:5157" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="5387:5640" ph="{...}" />
+            <marker date="1558598327719" expanded="true" signature="5688:5772" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/wwwroot/css/jquery.datetimepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="35" column="101" selection-start-line="35" selection-start-column="101" selection-end-line="35" selection-end-column="101" />
+          <folding>
+            <marker date="1558596548369" expanded="false" signature="6:424" ph="..." />
+            <marker date="1558596548369" expanded="true" signature="445:2500" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="472:2498" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="817:1541" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="903:1167" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="1729:2492" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="1776:1853" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="1870:2129" ph="{...}" />
+            <marker date="1558596548369" expanded="true" signature="2322:2480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Models/AppointmentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <marker date="1558598327729" expanded="true" signature="6:182" ph="..." />
+            <marker date="1558598327729" expanded="true" signature="298:1652" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="471:568" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="579:1646" ph="IAppointmentRepository&lt;T&gt; Members" />
+            <marker date="1558598327729" expanded="true" signature="673:736" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="784:850" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="890:960" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="998:1053" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="1090:1137" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="1182:1249" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="1311:1373" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="1449:1527" ph="{...}" />
+            <marker date="1558598327729" expanded="true" signature="1575:1626" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/wwwroot/js/jquery.datetimepicker.full.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+          <folding>
+            <marker date="1558608617125" expanded="true" signature="37:87" ph="@..." />
+            <marker date="1558608617125" expanded="true" signature="2194:2286" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding>
+            <marker date="1558608332734" expanded="true" signature="37:87" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <marker date="1558608617134" expanded="true" signature="37:88" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="53" column="16" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding>
+            <marker date="1558608511099" expanded="true" signature="54:98" ph="@..." />
+            <marker date="1558608511099" expanded="true" signature="1316:2226" ph="@..." />
+            <marker date="1558608511099" expanded="true" signature="1357:2226" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AMHaulage/Views/Appointments/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <marker date="1558608095827" expanded="true" signature="37:85" ph="@..." />
+            <marker date="1558608095827" expanded="true" signature="2229:2316" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
