@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMHaulage", "AMHaulage\AMHaulage.csproj", "{22FA1A33-D933-4C2E-A1F1-249BDE338597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMHaulage.Tests", "AMHaulage.Tests\AMHaulage.Tests.csproj", "{331EAF8D-6685-4ADF-A168-CA02414B9AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FA1A33-D933-4C2E-A1F1-249BDE338597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FA1A33-D933-4C2E-A1F1-249BDE338597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FA1A33-D933-4C2E-A1F1-249BDE338597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FA1A33-D933-4C2E-A1F1-249BDE338597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331EAF8D-6685-4ADF-A168-CA02414B9AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331EAF8D-6685-4ADF-A168-CA02414B9AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331EAF8D-6685-4ADF-A168-CA02414B9AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331EAF8D-6685-4ADF-A168-CA02414B9AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
